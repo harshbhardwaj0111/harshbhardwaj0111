@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshbhardwaj0111&label=Profile%20views&color=0e75b6&style=flat" alt="harshbhardwaj0111" /> </p>
 
-<p align="left"> <a href="[https://twitter.com/harshil092002](https://x.com/HarshBh06422742?t=ofSGVe7Htsznn_hvUPqN_Q&s=09)q" target="blank"><img src="https://img.shields.io/twitter/follow/harshil092002?logo=twitter&style=for-the-badge" alt="_harsh_bhardwaj_" /></a> </p>
+<p align="left"> <a href="[https://x.com/HarshBh06422742?t=ofSGVe7Htsznn_hvUPqN_Q&s=09](https://x.com/HarshBh06422742?t=ofSGVe7Htsznn_hvUPqN_Q&s=09)q" target="blank"><img src="https://img.shields.io/twitter/follow/harshil092002?logo=twitter&style=for-the-badge" alt="_harsh_bhardwaj_" /></a> </p>
 
 - 🔭 I’m currently working on **Gurukul - an school erp**
 
