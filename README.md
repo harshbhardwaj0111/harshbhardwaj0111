@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Harsh Bhardwaj</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh-mangal&label=Profile%20views&color=0e75b6&style=flat" alt="harsh-mangal" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshbhardwaj0111&label=Profile%20views&color=0e75b6&style=flat" alt="harshbhardwaj0111" /> </p>
 
-<p align="left"> <a href="https://twitter.com/harshil092002" target="blank"><img src="https://img.shields.io/twitter/follow/harshil092002?logo=twitter&style=for-the-badge" alt="harshil092002" /></a> </p>
+<p align="left"> <a href="[https://twitter.com/harshil092002](https://x.com/HarshBh06422742?t=ofSGVe7Htsznn_hvUPqN_Q&s=09)q" target="blank"><img src="https://img.shields.io/twitter/follow/harshil092002?logo=twitter&style=for-the-badge" alt="_harsh_bhardwaj_" /></a> </p>
 
 - 🔭 I’m currently working on **Gurukul - an school erp**
 
@@ -15,9 +15,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://x.com/HarshBh06422742?t=ofSGVe7Htsznn_hvUPqN_Q&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harshil092002" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/harsh-bhardwaj-56826226b " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsh mangal" height="30" width="40" /></a>
-<a href="https://www.instagram.com/credulous_harsh?igsh=MTRpY3RsbWMycmY4_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_harsh_mangal_" height="30" width="40" /></a>
+<a href="https://x.com/HarshBh06422742?t=ofSGVe7Htsznn_hvUPqN_Q&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_harsh_bhardwaj_" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/harsh-bhardwaj-56826226b " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="_harsh_bhardwaj_" height="30" width="40" /></a>
+<a href="https://www.instagram.com/credulous_harsh?igsh=MTRpY3RsbWMycmY4_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_harsh_bhardwaj_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
