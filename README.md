@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshbhardwaj0111&label=Profile%20views&color=0e75b6&style=flat" alt="harshbhardwaj0111" /> </p>
 
-<p align="left"> <a href="[https://x.com/HarshBh06422742?t=ofSGVe7Htsznn_hvUPqN_Q&s=09](https://x.com/HarshBh06422742?t=ofSGVe7Htsznn_hvUPqN_Q&s=09)q" target="blank"><img src="https://img.shields.io/twitter/follow/harshil092002?logo=twitter&style=for-the-badge" alt="_harsh_bhardwaj_" /></a> </p>
+<p align="left"> <a href="[https://x.com/HarshBh06422742?t=ofSGVe7Htsznn_hvUPqN_Q&s=09](https://x.com/HarshBh06422742?t=ofSGVe7Htsznn_hvUPqN_Q&s=09)q" target="blank"><img src="https://img.shields.io/twitter/follow/HarshBh06422742?logo=twitter&style=for-the-badge" alt="_harsh_bhardwaj_" /></a> </p>
 
-- 🔭 I’m currently working on **Gurukul - an school erp**
+- 🔭 I’m currently working on **Gurukul - An School erp**
 
 - 🌱 I’m currently learning **MERN Stack**
 
 - 💬 Ask me about **MERN Stack Development**
 
-- 📫 How to reach me **harshbhardwaj@0111@gmail.com**
+- 📫 How to reach me **harshbhardwaj0111@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
