@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="[https://x.com/HarshBh06422742?t=ofSGVe7Htsznn_hvUPqN_Q&s=09](https://x.com/HarshBh06422742?t=ofSGVe7Htsznn_hvUPqN_Q&s=09)q" target="blank"><img src="https://img.shields.io/twitter/follow/HarshBh06422742?logo=twitter&style=for-the-badge" alt="_harsh_bhardwaj_" /></a> </p>
 
-- 🔭 I’m currently working on **Gurukul - An School ERP**
+- 🔭 I’m currently working on **BiteAmore - a food delivery app**
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **React Native and AWS**
 
-- 💬 Ask me about **MERN Stack Development**
+- 💬 Ask me about **Full Stack Development**
 
 - 📫 How to reach me **harshbhardwaj0111@gmail.com**
 
