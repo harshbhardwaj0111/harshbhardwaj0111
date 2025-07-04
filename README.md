@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate full-stack developer and project manager from India with extensive experience in leading and delivering enterprise-level digital solutions. With 24+ successful company projects under my belt, I specialize in building scalable web applications while managing development teams and enhancing user experiences across diverse industries including e-commerce, real estate, hospitality, entertainment, finance, and manufacturing.
+I'm a passionate full-stack developer and project manager from India with extensive experience in leading and delivering enterprise-level digital solutions. With 25+ successful company projects under my belt, I specialize in building scalable web applications while managing development teams and enhancing user experiences across diverse industries including e-commerce, real estate, hospitality, entertainment, finance, and manufacturing.
 
 - 🔭 Currently working on **BiteAmore** - a comprehensive food delivery application
 - 🌱 Expanding expertise in **React Native** and **AWS Cloud Services**
