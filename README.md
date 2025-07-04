@@ -1,6 +1,6 @@
 # Hi 👋, I'm Harsh Bhardwaj
 
-### Full Stack Developer & Project Lead | Building Digital Solutions at Scale
+### Full Stack Developer & Project Manager | Building Digital Solutions at Scale
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=harshbhardwaj0111&label=Profile%20views&color=0e75b6&style=flat" alt="harshbhardwaj0111" /> 
@@ -11,53 +11,80 @@
 
 ## 🚀 About Me
 
-I'm a passionate full-stack developer from India with extensive experience in leading and managing enterprise-level projects. I specialize in building scalable web applications and have successfully delivered multiple high-impact projects for various industries including real estate, entertainment, hospitality, and finance.
+I'm a passionate full-stack developer and project manager from India with extensive experience in leading and delivering enterprise-level digital solutions. With 9+ successful company projects under my belt, I specialize in building scalable web applications while managing development teams and enhancing user experiences across diverse industries including e-commerce, real estate, hospitality, entertainment, finance, and manufacturing.
 
 - 🔭 Currently working on **BiteAmore** - a comprehensive food delivery application
 - 🌱 Expanding expertise in **React Native** and **AWS Cloud Services**
-- 💼 Leading development teams and managing full-stack projects
-- 💡 Passionate about creating efficient, user-centric digital solutions
+- 💼 **Project Manager** leading development teams and managing full-stack projects
+- 🎨 **UI/UX Specialist** focused on creating modern, intuitive user interfaces
+- 💡 Passionate about transforming business ideas into scalable digital solutions
+- 🏆 **9+ Enterprise Projects** delivered across multiple industries
 - 📫 Reach me at **harshbhardwaj0111@gmail.com**
 
-## 🏢 Professional Projects
+## 🏢 Professional Projects 
 
-### Led & Managed Enterprise Projects
+#### 🌟 **Dodun Soft Solutions** - *IT Services Corporate Hub*
+- **🔗 Live**: [dodunsoftsolutions.com](https://dodunsoftsolutions.com)
+- **👨‍💼 Role**: Project Manager | Full Stack Developer | UI/UX Designer
+- **🛠️ Tech Stack**: React, Node.js, MongoDB, AWS, Tailwind CSS
+- **📈 Impact**: Corporate website showcasing company services with enhanced user experience
+- **🎨 UI Enhancement**: Modern design system with responsive layouts and interactive elements
 
-**🌟 Dodun Soft Solutions** - *Company Website*
-- **Website**: [dodunsoftsolutions.com](https://dodunsoftsolutions.com)
-- **Role**: Project Lead & Full Stack Developer
-- **Tech Stack**: React, Node.js, MongoDB, AWS
-- **Impact**: Corporate website showcasing company services and portfolio
+#### 🛍️ **Bud & Tulips** - *Girls Fashion E-commerce*
+- **🔗 Live**: [budandtulips.com](https://budandtulips.com)
+- **👨‍💼 Role**: Project Manager | E-commerce Developer | Backend Devloper
+- **🛠️ Tech Stack**: Full Stack E-commerce Solution with Payment Integration
+- **📈 Impact**: Complete online fashion store with cart, checkout, and inventory management
+- **🎨 UI Enhancement**: Trendy, feminine design with smooth shopping experience
 
-**🏗️ Dev Bhoomi Group** - *Real Estate Platform*
-- **Website**: [devbhhoomigroup.in](https://devbhhoomigroup.in)
-- **Role**: Technical Lead & Project Manager
-- **Tech Stack**: Full Stack Development with modern frameworks
-- **Impact**: Comprehensive real estate platform with property listings and management
+#### 🏗️ **Dev Bhoomi Group** - *Premium Real Estate Platform*
+- **🔗 Live**: [devbhhoomigroup.in](https://devbhhoomigroup.in)
+- **👨‍💼 Role**: Project Manager | Technical Lead | System Architect | UI/UX Lead
+- **🛠️ Tech Stack**: Full Stack with Advanced Property Management System
+- **📈 Impact**: Comprehensive real estate platform with property listings and CRM
+- **🎨 UI Enhancement**: Premium design with virtual tours and interactive property galleries
 
-**🏨 The Gulmohar Grand** - *Hospitality Management System*
-- **Website**: [thegulmohargrand.com](https://thegulmohargrand.com)
-- **Role**: Lead Developer & System Architect
-- **Tech Stack**: Full Stack Web Development
-- **Impact**: Complete hotel management and booking system
+#### 🏨 **The Gulmohar Grand** - *Luxury Hospitality System*
+- **🔗 Live**: [thegulmohargrand.com](https://thegulmohargrand.com)
+- **👨‍💼 Role**: Project Manager | Lead Developer | System Designer | Frontend Developer | Backend Designer
+- **🛠️ Tech Stack**: Full Stack with Booking Engine and PMS Integration
+- **📈 Impact**: Complete hotel management and online booking platform
+- **🎨 UI Enhancement**: Elegant hospitality design with immersive booking experience
 
-**🎬 Grand Cinemaz** - *Entertainment Platform*
-- **Website**: [grandcinemaz.com](https://grandcinemaz.com)
-- **Role**: Project Lead & Full Stack Developer
-- **Tech Stack**: Modern web technologies with responsive design
-- **Impact**: Digital platform for cinema services and bookings
+#### 🎬 **Grand Cinemaz** - *Entertainment Experience Platform*
+- **🔗 Live**: [grandcinemaz.com](https://grandcinemaz.com)
+- **👨‍💼 Role**: Project Manager | Full Stack Developer | Creative Lead
+- **🛠️ Tech Stack**: Modern web technologies with multimedia integration
+- **📈 Impact**: Digital cinema platform with booking and entertainment services
+- **🎨 UI Enhancement**: Cinematic design with dynamic content and seat selection
 
-**💰 Invest Better Now** - *Financial Services Platform*
-- **Website**: [investbetternow.com](https://investbetternow.com)
-- **Role**: Technical Lead & Project Manager
-- **Tech Stack**: Secure full-stack development with financial integrations
-- **Impact**: Investment advisory platform with portfolio management
+#### 💰 **Invest Better Now** - *Advanced Financial Platform*
+- **🔗 Live**: [investbetternow.com](https://investbetternow.com)
+- **👨‍💼 Role**: Project Manager | FinTech Developer | Security Lead
+- **🛠️ Tech Stack**: Secure full-stack with financial APIs and analytics
+- **📈 Impact**: Investment advisory platform with portfolio management and analytics
+- **🎨 UI Enhancement**: Professional financial dashboard with data visualization
 
-**🏢 Dev Bhoomi TMT** - *Industrial Website*
-- **Website**: [devbhoomitmt.com](https://devbhoomitmt.com)
-- **Role**: Lead Developer & Project Coordinator
-- **Tech Stack**: Full Stack Development
-- **Impact**: Corporate website for TMT steel manufacturing business
+#### 🏢 **Dev Bhoomi TMT** - *Industrial Excellence Website*
+- **🔗 Live**: [devbhoomitmt.com](https://devbhoomitmt.com)
+- **👨‍💼 Role**: Project Manager | Industrial Web Developer | UI/UX Developer
+- **🛠️ Tech Stack**: Full Stack with Industrial Portfolio Management
+- **📈 Impact**: Corporate website for TMT steel manufacturing with product catalogs
+- **🎨 UI Enhancement**: Industrial design with product showcases and technical specifications
+
+#### 🏗️ **VST Infra** - *Steel Industry Portfolio*
+- **🔗 Live**: [vstinfra.com](https://vstinfra.com)
+- **👨‍💼 Role**: Project Manager | Industrial Developer | Portfolio Designer
+- **🛠️ Tech Stack**: Full Stack with Project Management and Gallery Systems
+- **📈 Impact**: Comprehensive steel industry portfolio with project showcases
+- **🎨 UI Enhancement**: Modern industrial design with project galleries and capabilities showcase
+
+#### 🛋️ **Gopika Furnishing** - *Furniture Product Showcase*
+- **🔗 Live**: [gopikafurnishing.com](https://gopikafurnishing.com)
+- **👨‍💼 Role**: Project Manager | Product Developer | Design Lead
+- **🛠️ Tech Stack**: Full Stack with Product Management and Gallery Systems
+- **📈 Impact**: Product portfolio website with furniture catalogs and customization options
+- **🎨 UI Enhancement**: Elegant furniture design with product visualization and interactive catalogs
 
 ## 💻 Technical Expertise
 
@@ -88,14 +115,17 @@ I'm a passionate full-stack developer from India with extensive experience in le
 ### **Cloud & DevOps**
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white)
 
-## 🎯 Core Competencies
+## 🎯 Core Competencies & Leadership Excellence
 
-- **Project Leadership**: Successfully led and managed 6+ enterprise-level projects
-- **Team Management**: Experience in coordinating development teams and stakeholders
-- **Full Stack Development**: End-to-end application development expertise
-- **Client Communication**: Direct client interaction and requirement gathering
-- **System Architecture**: Designing scalable and maintainable software solutions
-- **Quality Assurance**: Ensuring code quality and best practices implementation
+- **🏆 Project Management**: Successfully delivered 9+ enterprise-level projects across diverse industries
+- **👥 Team Leadership**: Led cross-functional development teams with 5-15 developers and designers
+- **🎨 UI/UX Enhancement**: Specialized in creating modern, user-centric interfaces with enhanced user experience
+- **💻 Full Stack Mastery**: End-to-end application development from concept to deployment
+- **🤝 Client Relations**: Direct stakeholder management and requirement gathering with C-level executives
+- **🏗️ System Architecture**: Designing scalable, secure, and maintainable enterprise solutions
+- **📊 Quality Assurance**: Implementing best practices, code reviews, and performance optimization
+- **🚀 Technology Innovation**: Staying ahead with latest tech trends and implementing cutting-edge solutions
+- **📈 Business Impact**: Delivered solutions that significantly improved client business metrics and ROI
 
 ## 📊 GitHub Statistics
 
