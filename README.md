@@ -18,7 +18,7 @@ I'm a passionate full-stack developer and project manager from India with extens
 - 💼 **Project Manager** leading development teams and managing full-stack projects
 - 🎨 **UI/UX Specialist** focused on creating modern, intuitive user interfaces
 - 💡 Passionate about transforming business ideas into scalable digital solutions
-- 🏆 **9+ Enterprise Projects** delivered across multiple industries
+- 🏆 **25+ Enterprise Projects** delivered across multiple industries
 - 📫 Reach me at **harshbhardwaj0111@gmail.com**
 
 ## 🏢 Professional Projects 
